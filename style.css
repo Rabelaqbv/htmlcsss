@@ -1,0 +1,13 @@
+body{
+    color: rgb(255, 255, 255);
+    background-color:black ;
+}
+ h1{
+    text-align: center;
+   color: rgb(120, 66, 182);
+ }
+
+a{
+    text-decoration: none;
+    color: rgb(250, 250, 250);
+}
