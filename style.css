@@ -1,10 +1,35 @@
 body{
     color: rgb(255, 255, 255);
     background-color:black ;
+
 }
+
+div{
+    color: aliceblue;
+    background-color: black;
+}
+
+
+
+    .pai {
+        display: flex;
+        background-color: rgb(71, 76, 124);
+        flex-direction: row-reverse;
+          }
+          
+          .pai > div {
+            background-color: #000000;
+            margin: 10px;
+            padding: 20px;
+            font-size: 30px;
+}
+
+
+
+
  h1{
     text-align: center;
-   color: rgb(120, 66, 182);
+   color: rgb(115, 27, 150);
  }
 
 a{
